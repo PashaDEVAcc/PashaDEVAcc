@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @PashaDEVAcc
+- 👀 I’m interested in ... iOS development with swiftui, web development with react and django
