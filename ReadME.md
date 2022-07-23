@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @PashaDEVAcc
-- 👀 I’m interested in ... iOS development with swiftui, web development with react and django, and ml with scikit-learn and Tensorflow
