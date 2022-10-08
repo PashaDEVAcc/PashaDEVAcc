@@ -2,7 +2,7 @@
 
 👀 I'm interested in ml, mobile development with Flutter and Swiftui , and sometimes some web development
 
-🌱 I'm currently learning machine learning with Scikit learn and Tensorflow
+🌱 I'm currently learning machine learning with Scikit-Learn, Tensorflow, Pytorch
 
 🙏 I'm looking to collaborate on projects including ml or any sort of mobile development
 
